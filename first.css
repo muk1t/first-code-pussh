@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+
+}
+.container{
+   display: flex;
+   height: 500px;
+   justify-content: space-around;
+   align-items: center;
+   border: 5px solid goldenrod;
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: greenyellow;
+}
+.box3{
+    background-color:blue;
+}

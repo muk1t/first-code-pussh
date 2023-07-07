@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+   
+}
+h1{
+    text-align: center;
+    font-weight: 500;
+    color: chartreuse;
+    font-style: italic;
+    display: inline;
+    margin-left: 500px;
+    margin-top: 10px;
+    
+    
+}
